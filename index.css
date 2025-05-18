@@ -31,7 +31,8 @@ section {
 h1 {
   font-size: 1rem;
   align-self: flex-start;
-   padding-bottom: 10vw;
+  padding-bottom: 10vw;
+  padding-left: 6vw;
 }
 
 
